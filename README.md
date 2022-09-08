@@ -1,7 +1,5 @@
-# Resume
-
-RYLEY LARSON
-Olympia, WA | P: (360) 480-5452 | ryleylar@umich.edu |LinkedIn
+# Ryley Larson
+Olympia, WA | P: (360) 480-5452 | ryleylar@umich.edu |LinkedIn @ryley-larson
 
 EDUCATION	
 ---------
