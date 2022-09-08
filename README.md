@@ -23,7 +23,7 @@ Cumulative GPA: 3.9/4.0; Dean’s List 2019-2021
 
 Sports: Baseball, Outfield
 
-Relevant Coursework: Microeconomics, Macroeconomics, Stats and Data Analysis, Spanish
+Relevant Coursework: Microeconomics; Macroeconomics; Stats and Data Analysis; Spanish
 __________________________________
 WORK EXPERIENCE	
 ---------------
