@@ -6,7 +6,7 @@ Olympia, WA | P: (360) 480-5452 | ryleylar@umich.edu |LinkedIn
 EDUCATION	
 ---------
 UNIVERSITY OF MICHIGAN	Ann Arbor, MI
-_____________________________________
+
 Bachelor of Science in Information (BSI), Concentration in Data Analysis	Expected April 2024
 
 Elective Coursework in Economics and Statistics
@@ -16,7 +16,7 @@ Cumulative GPA: 3.7/4.0; University Honors List 2021-2022
 Relevant Coursework: Sports Analytics; Data Manipulation and Exploration; Statistical Computing; User Modeling; Spanish
 ____________________________________
 LOWER COLUMBIA COLLEGE	Longview, WA
-___________________________________
+
 Associate in Business (DTA-MRP)	Graduated April 2021
 
 Cumulative GPA: 3.9/4.0; Dean’s List 2019-2021
@@ -28,7 +28,7 @@ __________________________________
 WORK EXPERIENCE	
 ---------------
 CORVALLIS KNIGHTS BASEBALL (West Coast League - Collegiate Wood Bat)	Corvallis, OR
-__________________________________________________________________________________
+
 Baseball Analyst Intern	Jun 2022 – Aug 2022
 
 Automated post game reports to be emailed after the final out using Trackman, Python (openpyxl, matplotlib, pandas) and SQL, creating a direct feedback loop for players and coaches.
@@ -44,7 +44,7 @@ Utilized Synergy Video Editor to create pitcher scouting videos, broken down by 
 Assisted with reading Synergy spray charts for the creation of our defensive shift cards as well as assisted with creating run game cards from Synergy video (pitcher break times, catcher pop times, pick-off move ratings, etc.)
 _________________________________________________________________________________
 MICHIGAN WOLVERINES BASEBALL	Ann Arbor, MI
-__________________________________________
+
 Baseball Analyst & Undergraduate Assistant	Aug 2021 – Present
 
 Began integrating automated postgame reports with swing decision data to enhance the direct feedback loop for players
@@ -58,7 +58,7 @@ Worked with a team of interns in maintaining the structure and efficiency of pra
 Gained experience with ProPlayAI, Motus, and Synergy interfaces
 _________________________________________
 NORTHWEST OFFICIALS	Thurston County, WA
-________________________________________
+
 Baseball Umpire	May 2014 – Aug 2021
 
 Applied the rules of the game while attending to coaches' grievances
