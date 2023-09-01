@@ -1,72 +1,86 @@
-# Ryley Larson
-Olympia, WA | P: (360) 480-5452 | ryleylar@umich.edu |LinkedIn @ryley-larson
+RYLEY LARSON
 
-EDUCATION	
+Olympia, WA | P: (360) 480-5452 | ryleylar@umich.edu | LinkedIn
+
+EDUCATION
 ---------
-UNIVERSITY OF MICHIGAN	Ann Arbor, MI
 
-Bachelor of Science in Information (BSI), Concentration in Data Analysis	Expected April 2024
+UNIVERSITY OF MICHIGAN
 
-Elective Coursework in Economics and Statistics
+Ann Arbor, MI
 
-Cumulative GPA: 3.7/4.0; University Honors List 2021-2022
+Bachelor of Science in Information (BSI), Concentration in Data Analysis
 
-Relevant Coursework: Sports Analytics; Data Manipulation and Exploration; Statistical Computing; User Modeling; Spanish
-____________________________________
+Expected Dec 2023 Minor Coursework in Economics, Statistics, and Spanish
+
+Cumulative Degree GPA: 3.9/4.0; University Honors List
+
+Relevant Coursework: Sports Analytics; Data Manipulation; Statistical Computing; Building Data-Driven Apps; Spanish
+
 LOWER COLUMBIA COLLEGE	Longview, WA
 
-Associate in Business (DTA-MRP)	Graduated April 2021
+Associate in Business (DTA-MRP)	  Graduated Apr 2021
 
-Cumulative GPA: 3.9/4.0; Dean’s List 2019-2021
+Cumulative GPA: 3.9/4.0; Dean’s List
 
-Sports: Baseball, Outfield
+Sports: Baseball (OF)
 
-Relevant Coursework: Microeconomics; Macroeconomics; Stats and Data Analysis; Spanish
-__________________________________
-WORK EXPERIENCE	
----------------
-CORVALLIS KNIGHTS BASEBALL (West Coast League - Collegiate Wood Bat)	Corvallis, OR
+SCOUTING - Link to work samples
+------------------------------
+ST. LOUIS CARDINALS	   Olympia, WA
 
-Baseball Analyst Intern	Jun 2022 – Aug 2022
+Associate, Scouting	   Mar ‘23 – Aug ‘23
 
-- Automated post game reports to be emailed after the final out using Trackman, Python (openpyxl, matplotlib, pandas) and SQL, creating a direct feedback loop for players and coaches.
+Worked directly with area scout in a pro scouting circuit (A+ NWL & AAA PCL West), evaluating talent & writing reports.
 
-- Formulated Compete+, an advanced statistic based on Trackman and boxscore data that ranks hundreds of pitchers against league average on their ability to throw strikes in high-pressure situations (ie. runners in scoring position, tying run at the plate/on base in 7th or later, hitter leverage counts, etc.)
+Bird-dogged high school, JUCO, and college games for area scout. Assisted in player discovery, evaluation, and reporting. 
 
-- Created monthly hitter chase reports utilizing Trackman, Python and SQL to analyze individual hitters’ O-Swing% broken down by pitch-type and count
-
-- Provided weekly quality at-bat charts to coaches broken down by LHP/RHP to assist in lineup creation and pinch-hit decisions
-
-- Utilized Synergy Video Editor to create pitcher scouting videos, broken down by pitch type and 2k count, that were displayed on loop in the clubhouse prior to the first pitch of every home game (during this process I found opportunities to pick pitchers and catchers and would relay any tells to our coaching staff)
-
-- Assisted with reading Synergy spray charts for the creation of our defensive shift cards as well as assisted with creating run game cards from Synergy video (pitcher break times, catcher pop times, pick-off move ratings, etc.)
-_________________________________________________________________________________
+DATA ANALYTICS & VIDEO - Link to python library, Link to other sample works
+---------------------------------------------------------------------------
 MICHIGAN WOLVERINES BASEBALL	Ann Arbor, MI
 
-Baseball Analyst & Undergraduate Assistant	Aug 2021 – Present
+Undergraduate Assistant, Data & Video	   Aug ‘21 – Present
 
-- Began integrating automated postgame reports with swing decision data to enhance the direct feedback loop for players
+Facilitated front-end data and video capture with Blast Motion, BATS, Synergy, Edgertronic, ProPlayAI, Motus, and Oculus.
 
-- Worked with our RShiny Dashboard to assist in player development and scouting
+Tagged games, scrimmages and bullpens in BATS, Trackman, and Rapsodo.
 
-- Tagged games, scrimmages and bullpens in Trackman and Rapsodo
+CORVALLIS KNIGHTS BASEBALL (West Coast League - Collegiate Wood Bat)			  Corvallis, OR
 
-- Worked with a team of interns in maintaining the structure and efficiency of practice by setting up and tearing down drills
+Intern, Baseball Analytics										          Jun ‘22 – Aug ‘22
 
-- Gained experience with ProPlayAI, Motus, and Synergy interfaces
-_________________________________________
+Created a Python library to automate Trackman database management, statistical analysis, and auto-generate postgame reports. 
+
+Formulated Compete+ by isolating high-leverage pitches to quantify a pitcher's relative ability to compete in clutch moments.
+
+Led advance video scouting using Synergy, breaking down pitcher tells and pitch mixes to coaches & hitters.
+
+Worked directly with the coaching staff to analyze the mental side of the game using player-specific reports. 
+
+PLAYER DEVELOPMENT & COACHING
+-----------------------------
+CHAMPIONSHIP CULTURE CONSULTING	    Olympia, WA
+
+Youth Camp Coach	    May ‘23 – Aug ‘23
+
+Assisted in coaching and mentoring young athletes alongside a highly experienced coaching staff, including a head coach with over 10 years of Pac 12 coaching experience.
+
+PIONEER HIGH SCHOOL BASEBALL	 Ann Arbor, MI
+
+Assistant Coach	    Feb ‘23 – May ‘23
+
+Improved high school pitchers biomechanics, introduced pitch arsenal optimization, and interpreted Rapsodo data.
+
+Provided drills and in-game feedback to hitters to improve biomechanics, pitch selection, and overall decision making.
+
+MORE
+----
 NORTHWEST OFFICIALS	Thurston County, WA
 
-Baseball Umpire	May 2014 – Aug 2021
+Umpire	      May ‘14 – Aug ‘23
 
-- Applied the rules of the game while attending to coaches' grievances
+Actively learned and applied the rules of the game
 
-- Established a fun, but serious setting for parents and players
-_______________________________________
-ADDITIONAL	
------------
-Technical Skills: Python, R, SQL, HTML, CSS, Javascript, Microsoft Office, Google Drive
 
-Languages: Limited Working Spanish
-
-Team Accomplishments: #1 in NWAC Coaches Poll (Lower Columbia - 2020), NWAC West Division Champions (Lower Columbia - 2021), Big 10 Champions (Michigan - 2022), WCL Champions (Corvallis - 2022)
+Languages: Spanish (Limited Working Proficiency)
+Technical Skills: Python (Pandas, Seaborn, Matplotlib, sqlite3), R, SQL, HTML, CSS, Javascript, Django, Microsoft Office
